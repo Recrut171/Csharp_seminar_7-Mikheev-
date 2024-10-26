@@ -1,0 +1,14 @@
+C:\Users\dm834\OneDrive\Рабочий стол\GeekBrains\С sharp\Семинар 7 ДЗ\Tasks\Task2\bin\Debug\net8.0\Task2.exe
+C:\Users\dm834\OneDrive\Рабочий стол\GeekBrains\С sharp\Семинар 7 ДЗ\Tasks\Task2\bin\Debug\net8.0\Task2.deps.json
+C:\Users\dm834\OneDrive\Рабочий стол\GeekBrains\С sharp\Семинар 7 ДЗ\Tasks\Task2\bin\Debug\net8.0\Task2.runtimeconfig.json
+C:\Users\dm834\OneDrive\Рабочий стол\GeekBrains\С sharp\Семинар 7 ДЗ\Tasks\Task2\bin\Debug\net8.0\Task2.dll
+C:\Users\dm834\OneDrive\Рабочий стол\GeekBrains\С sharp\Семинар 7 ДЗ\Tasks\Task2\bin\Debug\net8.0\Task2.pdb
+C:\Users\dm834\OneDrive\Рабочий стол\GeekBrains\С sharp\Семинар 7 ДЗ\Tasks\Task2\obj\Debug\net8.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dm834\OneDrive\Рабочий стол\GeekBrains\С sharp\Семинар 7 ДЗ\Tasks\Task2\obj\Debug\net8.0\Task2.AssemblyInfoInputs.cache
+C:\Users\dm834\OneDrive\Рабочий стол\GeekBrains\С sharp\Семинар 7 ДЗ\Tasks\Task2\obj\Debug\net8.0\Task2.AssemblyInfo.cs
+C:\Users\dm834\OneDrive\Рабочий стол\GeekBrains\С sharp\Семинар 7 ДЗ\Tasks\Task2\obj\Debug\net8.0\Task2.csproj.CoreCompileInputs.cache
+C:\Users\dm834\OneDrive\Рабочий стол\GeekBrains\С sharp\Семинар 7 ДЗ\Tasks\Task2\obj\Debug\net8.0\Task2.dll
+C:\Users\dm834\OneDrive\Рабочий стол\GeekBrains\С sharp\Семинар 7 ДЗ\Tasks\Task2\obj\Debug\net8.0\refint\Task2.dll
+C:\Users\dm834\OneDrive\Рабочий стол\GeekBrains\С sharp\Семинар 7 ДЗ\Tasks\Task2\obj\Debug\net8.0\Task2.pdb
+C:\Users\dm834\OneDrive\Рабочий стол\GeekBrains\С sharp\Семинар 7 ДЗ\Tasks\Task2\obj\Debug\net8.0\Task2.genruntimeconfig.cache
+C:\Users\dm834\OneDrive\Рабочий стол\GeekBrains\С sharp\Семинар 7 ДЗ\Tasks\Task2\obj\Debug\net8.0\ref\Task2.dll
